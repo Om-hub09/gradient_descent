@@ -2,7 +2,8 @@
 Gradient descent is an iterative optimization algorithm used to minimize a cost or loss function by moving model parameters in the direction of the steepest descent
 
 
-How It Works
+How It Works -
+
 • Start at a Point: Initialize model parameters (like weights and biases) with random values.
 
 • Calculate the Gradient: Compute the partial derivatives of the cost function with respect to each parameter to find the slope.
